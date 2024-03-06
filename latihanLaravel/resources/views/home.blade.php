@@ -10,7 +10,7 @@
     
     <h1>Selamat Datang {{ $namaDepan }} {{ $namaBelakang }}</h1> <br><br>
 
-    <h2>Terima kasih telah bergabung di Saberbook. Social Media kita bersama!</h2>
+    <h2>Terima kasih telah bergabung di Sanberbook. Social Media kita bersama!</h2>
 
 </body>
 </html>
