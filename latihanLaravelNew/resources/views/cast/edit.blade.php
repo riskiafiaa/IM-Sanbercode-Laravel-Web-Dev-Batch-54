@@ -17,7 +17,7 @@
     </div>
     {{-- <div class="form-group">
       <label >Umur</label>
-      <input type="text" class="form-control @error('umur') is-invalid @enderror" name="umur" value="{{ $cast->umur }}">
+      <input type="number" class="form-control @error('umur') is-invalid @enderror" name="umur" value="{{ $cast->umur }}">
         @error('umur')
         <div class="alert alert-danger">{{ $message }}</div>
         @enderror
